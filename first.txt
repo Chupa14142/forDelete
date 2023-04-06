@@ -4,3 +4,4 @@ dfdfHello textdfdfdff
 В
 А
 Ва
+new_line
