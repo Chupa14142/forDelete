@@ -3,6 +3,7 @@ dfdfHello textdfdfdff
 Ва
 В
 Change line from user 1
+Change line from user 2 + new text
 Ва
 Another line from user 1
 
