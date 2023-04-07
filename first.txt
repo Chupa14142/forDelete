@@ -2,7 +2,7 @@ dfdfHello textdfdfdff
 Вава
 Ва
 В
-Change line from user 2
+Change line from user 2 + new text
 Ва
 Another line from user 1
 
